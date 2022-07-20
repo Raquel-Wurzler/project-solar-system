@@ -4,18 +4,18 @@ body {
 
 .header {
   color: white;
-  text-align: center;
   font-family: 'Roboto', sans-serif;
+  text-align: center;
   font-size: 120px;
 }
 
 .title {
+  border: 1px solid white;
   color: white;
   margin: 25px;
   padding: 15px;
-  border: 1px solid white;
-  text-align: center;
   border-radius: 10px;
+  text-align: center;
   background-color: rgba(0, 0, 0, 0.4);
   font-family: 'Mochiy Pop One', sans-serif;
   font-size: 50px;
@@ -23,8 +23,8 @@ body {
 }
 
 .namePlanet {
-  color: white;
   align-self: center;
+  color: white;
   font-family: 'Courier New', Courier, monospace;
 }
 
@@ -45,12 +45,12 @@ img {
 .cardMission {
   color: white;
   margin: 25px;
-  padding: 15px;
-  border: 1px solid white;
-  border-radius: 10px;
   background-color: rgba(0, 0, 0, 0.4);
-  width: 230px;
+  border: 1px solid white;
+  padding: 15px;
+  border-radius: 10px;
   font-family: Arial, Helvetica, sans-serif;
+  width: 230px;
   font-size: 20px;
 }
 
