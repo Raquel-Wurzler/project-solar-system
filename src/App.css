@@ -1,3 +1,66 @@
-.App {
+body {
+  background-image: url(./images/background.png);
+}
+
+.header {
+  color: white;
   text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 120px;
+}
+
+.title {
+  color: white;
+  margin: 25px;
+  padding: 15px;
+  border: 1px solid white;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.4);
+  font-family: 'Mochiy Pop One', sans-serif;
+  font-size: 50px;
+  letter-spacing: 8px;
+}
+
+.namePlanet {
+  color: white;
+  align-self: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.planets {
+  display: flex;
+}
+
+.onePlanet {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+}
+
+img {
+  width: 165px;
+}
+
+.cardMission {
+  color: white;
+  margin: 25px;
+  padding: 15px;
+  border: 1px solid white;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 230px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.nameMission {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.containerMission {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
