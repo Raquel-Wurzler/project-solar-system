@@ -30,16 +30,14 @@ body {
 
 .planets {
   display: flex;
+  justify-content: space-around;
+  margin: 25px;
 }
 
 .onePlanet {
   display: flex;
   flex-direction: column-reverse;
   justify-content: center;
-}
-
-img {
-  width: 165px;
 }
 
 .cardMission {
@@ -63,4 +61,36 @@ img {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+}
+
+.Mercúrio {
+  width: 60px;
+}
+
+.Vênus {
+  width: 122px;
+}
+
+.Terra {
+  width: 126px;
+}
+
+.Marte {
+  width: 76px;
+}
+
+.Júpiter {
+  width: 282px;
+}
+
+.Saturno {
+  width: 292px;
+}
+
+.Urano {
+  width: 154px;
+}
+
+.Netuno {
+  width: 154px;
 }
