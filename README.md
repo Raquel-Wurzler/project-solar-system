@@ -7,7 +7,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 #### Projeto de conclusão da seção 2, no módulo de Front-end
 
 ### Principal objetivo:
-* Criar um modelo do sistema solar contendo as imagens dos Planetas e alguns cards contendo informações sobre missões espaciais.
+* Criar um modelo do sistema solar contendo as imagens dos Planetas e alguns cards com informações sobre missões espaciais.
 
 ### O que foi entregue:
 <details>
