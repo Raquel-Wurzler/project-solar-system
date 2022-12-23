@@ -52,6 +52,10 @@ body {
   width: 230px;
 }
 
+.cardMission:hover {
+  width: 260px;
+}
+
 .nameMission {
   font-size: 22px;
   font-weight: 700;
@@ -67,30 +71,62 @@ body {
   width: 60px;
 }
 
+.Mercúrio:hover {
+  width: 75px;
+}
+
 .Vênus {
   width: 122px;
+}
+
+.Vênus:hover {
+  width: 150px;
 }
 
 .Terra {
   width: 126px;
 }
 
+.Terra:hover {
+  width: 150px;
+}
+
 .Marte {
   width: 76px;
+}
+
+.Marte:hover {
+  width: 100px;
 }
 
 .Júpiter {
   width: 282px;
 }
 
+.Júpiter:hover {
+  width: 300px;
+}
+
 .Saturno {
   width: 292px;
+}
+
+.Saturno:hover {
+  width: 310px;
 }
 
 .Urano {
   width: 154px;
 }
 
+.Urano:hover {
+  width: 175px;
+}
+
 .Netuno {
   width: 154px;
+}
+
+.Netuno:hover {
+  width: 175px;
 }
