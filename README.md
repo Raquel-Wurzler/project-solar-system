@@ -39,7 +39,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ## Stack utilizada
 
-**Front-end:** JavaScript, React, CSS
+**Front-end:** JSX, React, CSS
 
 ## Instalação e uso
 
